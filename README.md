@@ -1,6 +1,6 @@
 # Trial_The-Legendary-Pirates
 ## Preview:
-![Game Cover](https://user-images.githubusercontent.com/53348848/204503670-a89da5c6-dd8e-4f10-b758-e6d36d1aac35.png)
+![Game Cover](https://user-images.githubusercontent.com/53348848/204504482-f0c75d1f-239b-4cf8-9a6e-22d3f08befae.png)
 
 ## How to play this game?
 click this link: https://ken6078.github.io/JudgeDemmo/
