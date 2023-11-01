@@ -4,3 +4,6 @@
 
 ## How to play this game?
 click this link: https://ken6078.github.io/JudgeDemmo/
+
+## Presentation
+click this link: https://www.canva.com/design/DAFDmP1ojqE/Gsh2fqyWNPU3pj_Qhn-TXg/view?utm_content=DAFDmP1ojqE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
